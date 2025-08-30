@@ -11,7 +11,17 @@ An AI-powered Telegram assistant built with n8n, integrating OpenAI, SerpAPI, Go
 - **Google Tasks** – Manage and list tasks directly via chat
 
 ## Demo
-![Demo1]()
+<img src="https://github.com/user-attachments/assets/8800b8f5-7720-4339-9fe2-a56f2d056825" alt="Demo1" width="300"/>
+
+Used OpenAI and SerpAPI to fetch and deliver real-time weather updates for New York.
+
+<img src="https://github.com/user-attachments/assets/c3bb3c36-73a4-4162-86d6-46be2fb49a72" alt="Demo2" width="300"/>
+
+Used Open AI and Simple Memory to access previous chat and then update on places to visit.
+
+<img src="https://github.com/user-attachments/assets/73932af5-6e0c-4dbc-aa92-3cef049808ca" alt="Demo2" width="300"/>
+
+Used Google Calendar and Google Tasks API to book a spot on calendar and update tasks as per user queries.
 
 ## Tech Stack
 - [n8n](https://n8n.io) – Automation & workflow engine  
