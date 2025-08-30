@@ -23,6 +23,9 @@ An AI-powered Telegram assistant built with n8n, integrating OpenAI, SerpAPI, Go
 
 - Used Google Calendar and Google Tasks API to book a spot on calendar and update tasks as per user queries.
 
+![ss4](https://github.com/user-attachments/assets/2881f5ad-3ed3-45fe-b5f0-73f0283b6791)
+
+
 ## Tech Stack
 - [n8n](https://n8n.io) – Automation & workflow engine  
 - [Telegram Bot API](https://core.telegram.org/bots/api) – Chat interface  
