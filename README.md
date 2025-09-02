@@ -32,7 +32,6 @@ An AI-powered Telegram assistant built with n8n, integrating OpenAI, SerpAPI, Go
 - [OpenAI](https://platform.openai.com/) – AI-powered conversation  
 - [SerpAPI](https://serpapi.com/) – Web search integration  
 - [Google Calendar API](https://developers.google.com/calendar) – Event management  
-- [Google Tasks API](https://developers.google.com/tasks) – Task management
 
 ## Notes
 
